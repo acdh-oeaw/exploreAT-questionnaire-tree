@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Dependencies are been migrated from [Bower]() with [bower-away](). Therefore yarn or npm may be used for installing
+Dependencies are been migrated from [API](https://github.com/acdh-oeaw/exploreAT-collectionexplorer-api). Therefore yarn or npm may be used for installing
 the dependencies.
 
 As indicated in **Bower** official site, it is recommended not to use it to manage the dependencies.
